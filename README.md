@@ -12,7 +12,7 @@
 
 ```typescript
 const choi_anam = {
-    pronouns: "He" | "Him",
+    pronouns: "He/Him",
     location: "🌍 Building from anywhere",
     code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
     askMeAbout: ["web dev", "tech", "app dev", "photography", "music"],
@@ -107,7 +107,7 @@ const choi_anam = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choi-anam&repo=choi-anam&theme=radical&hide_border=true)](https://github.com/choi-anam/choi-anam)
+> 🚧 **Coming Soon!** Stay tuned for exciting projects I'm working on!
 
 </div>
 
